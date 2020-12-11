@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Tasheka
 
 <!--
 **Tasheka/Tasheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://www.google.com/search?q=full+stack+developer&sxsrf=ALeKk01N89H7ENzSjmuLhJXQdyGaeGIi0w:1607701139959&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjklei6ocbtAhVOiFkKHV02CbcQ_AUoAnoECBgQBA&biw=1536&bih=754#imgrc=2FBTIvlaA6lwgM" alt="#>
+
+### I am a Full Stack Developer who is very passionate about about bringing ideas to life and creating products that clients will love. I am currently in the Microverse program where we develop a variety of projects collaboatively, using various languages and framework; such as HTML, CSS, Ruby, Ruby on Rails, Bootstrap ect.
 
 Here are some ideas to get you started:
 
